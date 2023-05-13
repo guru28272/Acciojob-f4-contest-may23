@@ -6,15 +6,11 @@ body {
   text-align: center;
   text-transform: capitalize;
   background-color: #282c34;
+  color: white;
 }
 
 .calc {
-  width: 40%;
-  padding: 10rem;
-
-  margin: 20% auto;
-  /* align-items: center; */
-  color: white;
+  margin-top: 20rem;
 }
 
 .btn {
